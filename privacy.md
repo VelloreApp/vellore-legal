@@ -1,7 +1,7 @@
 
 # Privacy Policy
 
-**Vellore — Watch Collection Manager**
+**Vellore — Watch Collection **
 Last updated: March 5, 2026
 
 ## Overview
@@ -53,4 +53,4 @@ We may update this privacy policy from time to time. Any changes will be reflect
 
 ## Contact
 
-If you have questions about this privacy policy, contact us at rafales945@gmail.com.
+If you have questions about this privacy policy, contact us at info@vellorewatch.com.
