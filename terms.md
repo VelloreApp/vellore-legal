@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Vellore — Watch Collection Manager**
+**Vellore — Watch Collection **
 Last updated: March 5, 2026
 
 ## Acceptance of Terms
@@ -65,5 +65,5 @@ These terms are governed by the laws of Portugal.
 
 ## Contact
 
-If you have questions about these terms, contact us at rafales945@gmail.com.
+If you have questions about these terms, contact us at info@vellorewatch.com.
 
